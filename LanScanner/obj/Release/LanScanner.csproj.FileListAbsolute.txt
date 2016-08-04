@@ -1,0 +1,1 @@
+K:\VS\LanScanner\LanScanner\bin\Release\LanScanner.exe.config

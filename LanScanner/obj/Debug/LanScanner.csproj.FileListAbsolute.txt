@@ -1,0 +1,9 @@
+K:\VS\LanScanner\LanScanner\bin\Debug\LanScanner.exe.config
+K:\VS\LanScanner\LanScanner\bin\Debug\LanScanner.exe
+K:\VS\LanScanner\LanScanner\bin\Debug\LanScanner.pdb
+K:\VS\LanScanner\LanScanner\obj\Debug\LanScanner.csprojResolveAssemblyReference.cache
+K:\VS\LanScanner\LanScanner\obj\Debug\LanScanner.Form1.resources
+K:\VS\LanScanner\LanScanner\obj\Debug\LanScanner.Properties.Resources.resources
+K:\VS\LanScanner\LanScanner\obj\Debug\LanScanner.csproj.GenerateResource.Cache
+K:\VS\LanScanner\LanScanner\obj\Debug\LanScanner.exe
+K:\VS\LanScanner\LanScanner\obj\Debug\LanScanner.pdb

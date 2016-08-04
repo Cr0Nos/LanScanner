@@ -1,0 +1,6 @@
+K:\VS\LanScanner\LanScannerUpdater\bin\Debug\LanScannerUpdater.exe.config
+K:\VS\LanScanner\LanScannerUpdater\bin\Debug\LanScannerUpdater.exe
+K:\VS\LanScanner\LanScannerUpdater\bin\Debug\LanScannerUpdater.pdb
+K:\VS\LanScanner\LanScannerUpdater\obj\Debug\LanScannerUpdater.exe
+K:\VS\LanScanner\LanScannerUpdater\obj\Debug\LanScannerUpdater.pdb
+K:\VS\LanScanner\LanScannerUpdater\obj\Debug\LanScannerUpdater.csprojResolveAssemblyReference.cache
